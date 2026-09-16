@@ -1,0 +1,8 @@
+node_modules/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+__pycache__/
+*.pyc
+
+# 教材原始课件与教案（含版权内容、体积较大，不入库）
+input/
