@@ -10,7 +10,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '课程讲义', link: '/course/' }
+      { text: '课程讲义', link: '/course/' },
+      { text: '闯关学习', link: '/challenge/' }
     ],
 
     sidebar: {
